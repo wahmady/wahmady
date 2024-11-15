@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wahmady
 - 👀 I’m interested in Solutions Engineering
-- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on projects with a social impact
 - 📫 How to reach me wahab.ahmady@gmail.com
 
